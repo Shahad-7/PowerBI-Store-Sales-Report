@@ -2,32 +2,50 @@
 
 This project is an **interactive Power BI dashboard** that analyzes store sales performance across products, categories, and regions.
 
+---
+
 ## 🚀 Features
-- Total sales and orders overview
-- Breakdown by **Product Category** and **Subcategory**
-- Regional performance with map visualization
-- Date filter and continent filter for dynamic insights
+- Total sales and orders overview  
+- Breakdown by **Product Category** and **Subcategory**  
+- Regional performance with interactive **map visualization**  
+- Date and Continent filters for dynamic insights  
+
+---
 
 ## 🛠 Tools & Technologies
-- Power BI Desktop
-- Data Modeling (Relationships between multiple tables: Sales, Products, Customers, Calendar)
-- DAX for calculated measures
+- **Power BI Desktop**  
+- **Data Modeling** (relationships between Sales, Products, Customers, Calendar tables)  
+- **DAX** for calculated measures  
+
+---
 
 ## 📷 Dashboard Preview
-### Main Page
-![Dashboard Screenshot](dashboard_main.png)
 
-### Product Details Page
-![Dashboard Screenshot](dashboard_details.png)
+### Main Page  
+![Main Dashboard](screenshots/main_page.png)  
+
+### Product Details Page  
+![Product Details Dashboard](screenshots/product_details.png)  
+
+---
 
 ## 📁 Files in this Repo
-- `Store_Sales_Report.pbix` → Full Power BI project file
-- `dashboard_main.png` → Screenshot of main dashboard
-- `dashboard_details.png` → Screenshot of product details page
-- `README.md` → Documentation of the project
+- `Store_Sales_Report.pbix` → Full Power BI project file  
+- `screenshots/main_page.png` → Main dashboard screenshot  
+- `screenshots/product_details.png` → Product details page screenshot  
+- `README.md` → Project documentation  
+
+---
 
 ## 🎯 Objective
-This project demonstrates my skills in:
-- **Data Modeling & Visualization**
-- **Business Intelligence with Power BI**
-- **Building interactive dashboards for decision-making**
+This project demonstrates my skills in:  
+- **Data Modeling & Visualization**  
+- **Business Intelligence with Power BI**  
+- **Building interactive dashboards for decision-making**  
+
+---
+
+## 👩‍💻 Author
+**Shahad Alharbi**  
+📌 Computer Science Graduate | Passionate about Data & Analytics  
+ 
