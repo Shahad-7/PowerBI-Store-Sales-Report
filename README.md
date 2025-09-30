@@ -2,7 +2,6 @@
 
 This project is an **interactive Power BI dashboard** that analyzes store sales performance across products, categories, and regions.
 
----
 
 ## 🚀 Features
 - Total sales and orders overview  
@@ -10,14 +9,13 @@ This project is an **interactive Power BI dashboard** that analyzes store sales 
 - Regional performance with interactive **map visualization**  
 - Date and Continent filters for dynamic insights  
 
----
+
 
 ## 🛠 Tools & Technologies
 - **Power BI Desktop**  
 - **Data Modeling** (relationships between Sales, Products, Customers, Calendar tables)  
 - **DAX** for calculated measures  
 
----
 
 ## 📖 Insights & Data Storytelling
 
@@ -42,7 +40,7 @@ This dashboard does not only display numbers, it tells a **data story** about st
 
 By combining data, visualization, and storytelling, this project demonstrates how raw numbers can be translated into **business insights that support decision-making**.
 
----
+
 
 ## 📷 Dashboard Preview
 
@@ -52,7 +50,7 @@ By combining data, visualization, and storytelling, this project demonstrates ho
 ### Product Details Page  
 ![Product Details Dashboard](screenshots/product_details.png)  
 
----
+
 
 ## 📁 Files in this Repo
 - `Store_Sales_Report.pbix` → Full Power BI project file  
@@ -60,7 +58,7 @@ By combining data, visualization, and storytelling, this project demonstrates ho
 - `screenshots/product_details.png` → Product details page screenshot  
 - `README.md` → Project documentation  
 
----
+
 
 ## 🎯 Objective
 This project demonstrates my skills in:  
@@ -69,9 +67,9 @@ This project demonstrates my skills in:
 - **Building interactive dashboards for decision-making**  
 - **Data Storytelling** to communicate insights effectively  
 
----
 
 ## 👩‍💻 Author
 **Shahad Alharbi**  
 📌 Computer Science Graduate | Passionate about Data & Analytics  
+
 
